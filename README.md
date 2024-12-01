@@ -98,15 +98,6 @@ Certifique-se de ter o **Node.js** e o **npm** instalados na sua máquina.
 
 ---
 
-## 📷 Demonstração
-### Login
-![Login Page](https://via.placeholder.com/800x400?text=Tela+de+Login)
-
-### Cadastro
-![Register Page](https://via.placeholder.com/800x400?text=Tela+de+Cadastro)
-
----
-
 ## 🧩 Contribuição
 Contribuições são sempre bem-vindas! Siga os passos abaixo para colaborar:
 1. Faça um fork do projeto.
@@ -126,17 +117,12 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo para colaborar:
 
 ---
 
-## 📝 Licença
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais informações.
-
----
-
 ## 💡 Contato
 Para dúvidas ou sugestões, entre em contato:
 
-- **Nome**: Wesley (substituir pelo seu nome)
-- **E-mail**: seu-email@exemplo.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://linkedin.com/in/seu-usuario)
+- **Nome**: Wesley Santos de Sousa
+- **E-mail**: wesley16rg@gmail.com
+- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/wesley-sousa-1568b8222/)
 
 ---
 
