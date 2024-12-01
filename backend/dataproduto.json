@@ -1,0 +1,363 @@
+[
+  {
+    "id": "1731969458280",
+    "name": "Portuguesa",
+    "description": "Molho de tomate, queijo, presunto, ovos, cebola e ervilha.",
+    "imageUrl": "",
+    "priceSmall": "25.00",
+    "priceMedium": "35.00",
+    "priceLarge": "45.00"
+  },
+  {
+    "id": "1731969458281",
+    "name": "Margherita",
+    "description": "Molho de tomate, queijo, manjericão fresco.",
+    "imageUrl": "",
+    "priceSmall": "22.00",
+    "priceMedium": "32.00",
+    "priceLarge": "42.00"
+  },
+  {
+    "id": "1731969458282",
+    "name": "Calabresa",
+    "description": "Molho de tomate, queijo, calabresa e cebola.",
+    "imageUrl": "",
+    "priceSmall": "23.00",
+    "priceMedium": "33.00",
+    "priceLarge": "43.00"
+  },
+  {
+    "id": "1731969458283",
+    "name": "Frango com Catupiry",
+    "description": "Molho de tomate, queijo, frango desfiado e catupiry.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458284",
+    "name": "Quatro Queijos",
+    "description": "Molho de tomate, mussarela, parmesão, provolone e gorgonzola.",
+    "imageUrl": "",
+    "priceSmall": "28.00",
+    "priceMedium": "38.00",
+    "priceLarge": "48.00"
+  },
+  {
+    "id": "1731969458285",
+    "name": "Pepperoni",
+    "description": "Molho de tomate, queijo e pepperoni.",
+    "imageUrl": "",
+    "priceSmall": "27.00",
+    "priceMedium": "37.00",
+    "priceLarge": "47.00"
+  },
+  {
+    "id": "1731969458286",
+    "name": "Vegetariana",
+    "description": "Molho de tomate, queijo, pimentão, cebola, tomate, milho e azeitonas.",
+    "imageUrl": "",
+    "priceSmall": "25.00",
+    "priceMedium": "35.00",
+    "priceLarge": "45.00"
+  },
+  {
+    "id": "1731969458287",
+    "name": "Palmito",
+    "description": "Molho de tomate, queijo, palmito e azeitonas.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458288",
+    "name": "Bacon",
+    "description": "Molho de tomate, queijo e bacon crocante.",
+    "imageUrl": "",
+    "priceSmall": "27.00",
+    "priceMedium": "37.00",
+    "priceLarge": "47.00"
+  },
+  {
+    "id": "1731969458289",
+    "name": "Atum",
+    "description": "Molho de tomate, queijo, atum e cebola.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458290",
+    "name": "Baiana",
+    "description": "Molho de tomate, queijo, calabresa moída, pimenta e cebola.",
+    "imageUrl": "",
+    "priceSmall": "27.00",
+    "priceMedium": "37.00",
+    "priceLarge": "47.00"
+  },
+  {
+    "id": "1731969458291",
+    "name": "Carne Seca com Catupiry",
+    "description": "Molho de tomate, queijo, carne seca desfiada e catupiry.",
+    "imageUrl": "",
+    "priceSmall": "28.00",
+    "priceMedium": "38.00",
+    "priceLarge": "48.00"
+  },
+  {
+    "id": "1731969458292",
+    "name": "Napolitana",
+    "description": "Molho de tomate, queijo, tomate e orégano.",
+    "imageUrl": "",
+    "priceSmall": "22.00",
+    "priceMedium": "32.00",
+    "priceLarge": "42.00"
+  },
+  {
+    "id": "1731969458293",
+    "name": "Romeu e Julieta",
+    "description": "Queijo e goiabada.",
+    "imageUrl": "",
+    "priceSmall": "25.00",
+    "priceMedium": "35.00",
+    "priceLarge": "45.00"
+  },
+  {
+    "id": "1731969458294",
+    "name": "Chocolate",
+    "description": "Chocolate derretido e granulado.",
+    "imageUrl": "",
+    "priceSmall": "25.00",
+    "priceMedium": "35.00",
+    "priceLarge": "45.00"
+  },
+  {
+    "id": "1731969458295",
+    "name": "Brigadeiro",
+    "description": "Chocolate com leite condensado e granulado.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458296",
+    "name": "Banana com Canela",
+    "description": "Banana, açúcar e canela.",
+    "imageUrl": "",
+    "priceSmall": "24.00",
+    "priceMedium": "34.00",
+    "priceLarge": "44.00"
+  },
+  {
+    "id": "1731969458297",
+    "name": "Camarão",
+    "description": "Molho de tomate, queijo, camarão e alho.",
+    "imageUrl": "",
+    "priceSmall": "32.00",
+    "priceMedium": "42.00",
+    "priceLarge": "52.00"
+  },
+  {
+    "id": "1731969458298",
+    "name": "Mexicana",
+    "description": "Molho de tomate, queijo, carne moída, jalapeños e cebola.",
+    "imageUrl": "",
+    "priceSmall": "28.00",
+    "priceMedium": "38.00",
+    "priceLarge": "48.00"
+  },
+  {
+    "id": "1731969458299",
+    "name": "Rúcula com Tomate Seco",
+    "description": "Molho de tomate, queijo, rúcula e tomate seco.",
+    "imageUrl": "",
+    "priceSmall": "27.00",
+    "priceMedium": "37.00",
+    "priceLarge": "47.00"
+  },
+  {
+    "id": "1731969458300",
+    "name": "Costela",
+    "description": "Molho de tomate, queijo e carne de costela desfiada.",
+    "imageUrl": "",
+    "priceSmall": "30.00",
+    "priceMedium": "40.00",
+    "priceLarge": "50.00"
+  },
+  {
+    "id": "1731969458301",
+    "name": "Cheddar com Bacon",
+    "description": "Molho de tomate, queijo, cheddar e bacon.",
+    "imageUrl": "",
+    "priceSmall": "28.00",
+    "priceMedium": "38.00",
+    "priceLarge": "48.00"
+  },
+  {
+    "id": "1731969458302",
+    "name": "Brócolis",
+    "description": "Molho de tomate, queijo, brócolis e alho.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458303",
+    "name": "Milho com Bacon",
+    "description": "Molho de tomate, queijo, milho e bacon.",
+    "imageUrl": "",
+    "priceSmall": "27.00",
+    "priceMedium": "37.00",
+    "priceLarge": "47.00"
+  },
+  {
+    "id": "1731969458304",
+    "name": "Abobrinha",
+    "description": "Molho de tomate, queijo, abobrinha grelhada e orégano.",
+    "imageUrl": "",
+    "priceSmall": "25.00",
+    "priceMedium": "35.00",
+    "priceLarge": "45.00"
+  },
+  {
+    "id": "1731969458305",
+    "name": "Alho e Óleo",
+    "description": "Molho de tomate, queijo, alho frito e azeite.",
+    "imageUrl": "",
+    "priceSmall": "22.00",
+    "priceMedium": "32.00",
+    "priceLarge": "42.00"
+  },
+  {
+    "id": "1731969458306",
+    "name": "A Moda da Casa",
+    "description": "Molho de tomate, queijo, calabresa, bacon, frango e catupiry.",
+    "imageUrl": "",
+    "priceSmall": "29.00",
+    "priceMedium": "39.00",
+    "priceLarge": "49.00",
+    "status": "Finalizado"
+  },
+  {
+    "id": "1731969458307",
+    "name": "Toscana",
+    "description": "Molho de tomate, queijo, linguiça toscana e cebola.",
+    "imageUrl": "",
+    "priceSmall": "26.00",
+    "priceMedium": "36.00",
+    "priceLarge": "46.00"
+  },
+  {
+    "id": "1731969458308",
+    "name": "Siciliana",
+    "description": "Molho de tomate, queijo, anchovas, alcaparras e orégano.",
+    "imageUrl": "",
+    "priceSmall": "30.00",
+    "priceMedium": "40.00",
+    "priceLarge": "50.00"
+  },
+  {
+    "id": "1731969458309",
+    "name": "Especial da Casa",
+    "description": "Molho de tomate, queijo, bacon, calabresa, catupiry e pimentão.",
+    "imageUrl": "",
+    "priceSmall": "29.00",
+    "priceMedium": "39.00",
+    "priceLarge": "49.00"
+  },
+  {
+    "id": "1731969458310",
+    "name": "Coca-Cola",
+    "description": "Refrigerante de cola.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458311",
+    "name": "Guaraná Antarctica",
+    "description": "Refrigerante de guaraná.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458312",
+    "name": "Sprite",
+    "description": "Refrigerante limão.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458313",
+    "name": "Pepsi",
+    "description": "Refrigerante de cola.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458314",
+    "name": "Fanta Laranja",
+    "description": "Refrigerante de laranja.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458315",
+    "name": "Fanta Uva",
+    "description": "Refrigerante de uva.",
+    "imageUrl": "",
+    "priceSmall": "6.00",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  },
+  {
+    "id": "1731969458316",
+    "name": "Água",
+    "description": "Água mineral sem gás.",
+    "imageUrl": "",
+    "priceSmall": "3.00",
+    "priceMedium": "4.00",
+    "priceLarge": "5.00"
+  },
+  {
+    "id": "1731969458317",
+    "name": "Água com Gás",
+    "description": "Água mineral com gás.",
+    "imageUrl": "",
+    "priceSmall": "3.50",
+    "priceMedium": "4.50",
+    "priceLarge": "5.50"
+  },
+  {
+    "id": "1731969458318",
+    "name": "Chá Gelado",
+    "description": "Chá gelado de limão.",
+    "imageUrl": "",
+    "priceSmall": "5.00",
+    "priceMedium": "6.50",
+    "priceLarge": "8.00"
+  },
+  {
+    "id": "1731969458319",
+    "name": "H2OH",
+    "description": "Água sabor limão levemente gaseificada.",
+    "imageUrl": "",
+    "priceSmall": "6.50",
+    "priceMedium": "8.00",
+    "priceLarge": "10.00"
+  }
+]
