@@ -1,5 +1,3 @@
-Aqui está um modelo de README completo para o seu projeto **Pizzaria-WEB**. Este documento segue as melhores práticas de estrutura e inclui seções detalhadas que explicam o propósito do projeto, como configurá-lo e como utilizá-lo.
-
 ---
 
 # Pizzaria-WEB 🍕
@@ -125,5 +123,3 @@ Para dúvidas ou sugestões, entre em contato:
 - **LinkedIn**: [Perfil no LinkedIn](https://www.linkedin.com/in/wesley-sousa-1568b8222/)
 
 ---
-
-Esse README é profissional, bem estruturado e fácil de entender. Caso queira personalizá-lo ainda mais, posso ajudar! 😄
