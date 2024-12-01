@@ -122,7 +122,7 @@ Para dúvidas ou sugestões, entre em contato:
 
 - **Nome**: Wesley Santos de Sousa
 - **E-mail**: wesley16rg@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/wesley-sousa-1568b8222/)
+- **LinkedIn**: [Perfil no LinkedIn](https://www.linkedin.com/in/wesley-sousa-1568b8222/)
 
 ---
 
