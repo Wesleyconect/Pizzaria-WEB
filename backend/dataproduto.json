@@ -325,15 +325,6 @@
     "priceLarge": "10.00"
   },
   {
-    "id": "1731969458316",
-    "name": "Água",
-    "description": "Água mineral sem gás.",
-    "imageUrl": "",
-    "priceSmall": "3.00",
-    "priceMedium": "4.00",
-    "priceLarge": "5.00"
-  },
-  {
     "id": "1731969458317",
     "name": "Água com Gás",
     "description": "Água mineral com gás.",
